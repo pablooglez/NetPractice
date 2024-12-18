@@ -1,7 +1,3 @@
-Claro, aquí tienes el contenido reformulado y con la tabla de subred completa incluida:  
-
----
-
 # 🖧 NetTraining  
 
 ## 🌟 Introducción  
